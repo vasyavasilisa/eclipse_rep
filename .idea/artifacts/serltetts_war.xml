@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="serltetts:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="serltetts-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="serltetts:war exploded" />
+    </root>
+  </artifact>
+</component>
