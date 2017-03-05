@@ -35,6 +35,10 @@ public class HelloServlet extends HttpServlet {
 		out.println("<title>Server</title>");
 		out.println("</head>");
 		out.println("<body>");
+		out.println("<h4>Фамилия: </h4>");
+		out.println("<h4>Имя: </h4>");
+		out.println("<h4>Фамилия: </h4>");
+		out.println("<h4>Имя:</h4>");
 		
 	}
 
